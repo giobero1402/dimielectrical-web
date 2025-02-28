@@ -569,6 +569,10 @@ textarea{
     .menu-btn{
         display: block;
     }
+    .mobile-header {
+        background-image: url(src/images/23ab6b_6bb41378aa8949e7ba9d418bdd64fa38~mv2.avif);
+        background-position: 20%
+    }
 }
 
 @media (max-width: 768px) {
